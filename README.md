@@ -145,6 +145,10 @@ Use a stable power supply rated for the LEDs and audio hardware, and connect all
 
 `SataniCJokeR_Afterlife_2026` also allows **D8 OFF during Post Vent (`0019.wav`) or Boot After Vent (`0016.wav`)** to start Ramp 2 Down without an Error.
 
+![Switches](images/buttons.jpg)
+
+![LEDs](images/LEDs.jpg)
+
 ## 9. Troubleshooting
 
 | Symptom | What to check |
