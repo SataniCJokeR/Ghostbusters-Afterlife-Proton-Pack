@@ -189,3 +189,5 @@ Use a stable power supply rated for the LEDs and audio hardware, and connect all
 If you run into problems while building your Proton Pack, check out [WholesomeJoe's older YouTube build-video playlist](https://www.youtube.com/playlist?list=PLhiyMZuH8tBOwNic7S3f29nyA3fqoB7SK). He walks through the build step by step, although his version uses MikeS11's code.
 
 Without him, I would never have been able to create what you see here today. **Thank you, Joe! :\***
+
+![SataniC JokeR logo](images/logo.png)
