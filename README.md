@@ -1,4 +1,5 @@
 # SataniC JokeR's Afterlife 2026 Proton Pack
+![Ghostbusters Proton Pack build](images/afterlife.jpg)
  
 Firmware, libraries & sound installation guide
 
