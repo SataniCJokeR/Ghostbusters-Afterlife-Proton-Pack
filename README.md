@@ -1,6 +1,5 @@
-# Ghostbusters Afterlife Proton Pack
-
-**SataniC JokeR's Afterlife 2026 Proton Pack**  
+# SataniC JokeR's Afterlife 2026 Proton Pack
+ 
 Firmware, libraries & sound installation guide
 
 **Project:** Ghostbusters Afterlife 2026 by SataniC JokeR / Acki  
