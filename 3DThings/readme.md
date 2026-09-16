@@ -1,3 +1,4 @@
-# 3D printable scrolling text badge holder
+<p align="center">
+  <img src="./images/LEDtext.jpg" alt="scrolling text badge holder" width="800">
+</p>
 
-![LEDText](images/LEDtext.jpg)
