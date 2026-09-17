@@ -195,4 +195,9 @@ If you run into problems while building your Proton Pack, check out [WholesomeJo
 
 Without him, I would never have been able to create what you see here today. **Thank you, Joe! :\***
 
-![SataniC JokeR logo](images/logo.png)
+
+
+
+<p align="center">
+  <img src="images/logo.png" alt="SataniC JokeR logo" width="300">
+</p>
