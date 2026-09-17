@@ -183,12 +183,13 @@ Use a stable power supply rated for the LEDs and audio hardware, and connect all
 - [DFPlayerMini_Fast](https://github.com/PowerBroker2/DFPlayerMini_Fast)
 - [FastLED](https://github.com/FastLED/FastLED)
 - [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
-- [DFRobot DFPlayer Mini documentation](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299)
+- [DFRobot DFPlayer Mini documentation](https://drive.google.com/drive/folders/1ZK_mpFw1HRCU08vdL3db9uLpBYtM99ma))
 
 **Proton Pack build resources**
 
-- [3D-printable Proton Pack by Q](https://github.com/mr-kiou/q-pack/tree/MK4). Thank you, Mr. Q!
-- [Workbench 3D files by LeBazarDuQ](https://www.etsy.com/de/shop/LeBazarDuQ?ref=l2-about-shopname&from_page=listing) (available to purchase).
+- [3D-printable Proton Pack by Q](https://github.com/mr-kiou/q-pack/tree/MK4). Including the wand pop nechanism. Thank you, Mr. Q!
+- [Workbench 3D files by LeBazarDuQ](https://www.etsy.com/de/shop/LeBazarDuQ?ref=l2-about-shopname&from_page=listing) (available for purchase).
+- [Decals for the pack and the wand for self printing on adhesive film](https://drive.google.com/drive/folders/1ZK_mpFw1HRCU08vdL3db9uLpBYtM99ma). I used silver DIN A4 adhesive film sheets
 
 If you run into problems while building your Proton Pack, check out [WholesomeJoe's older YouTube build-video playlist](https://www.youtube.com/playlist?list=PLhiyMZuH8tBOwNic7S3f29nyA3fqoB7SK). He walks through the build step by step, although his version uses MikeS11's code.
 
