@@ -31,7 +31,9 @@ The quick-connect fitting makes it easier to detach the hose for servicing and r
 
 ## 3. Wiring and Assembly Diagram
 
-![Smoke machine wiring and air-hose diagram](images/smoke.jpg)
+<p align="center">
+  <img src="https://github.com/SataniCJokeR/Ghostbusters-Afterlife-Proton-Pack/blob/main/Diagram/smoke.jpg" alt="DIY smoke machine">
+</p>
 
 *Diagram based on Joe's video and revised for my build.*
 
@@ -60,7 +62,12 @@ I highly recommend watching KamuiCosplay's YouTube tutorial featuring Svetlana b
 
 Not only does she have a grrrreat German accent, her voice could probably raise the dead. Just kidding. Love you, Svetlana!
 
-**Video:** [Insert KamuiCosplay video link here](#) (replace this placeholder with the actual link).
+**Video:** (https://www.youtube.com/watch?v=uDISX8MMLak&t=381s)
+
+
+If you want to know, how to wire this up, have a look at wholesomejoe´s video!
+
+**Video:** (https://youtu.be/ciG3mJstMbo?si=-ihIuFimQip9ONlE)
 
 ---
 
