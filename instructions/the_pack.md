@@ -147,9 +147,13 @@ Use a stable power supply rated for the LEDs and audio hardware, and connect all
 
 `SataniCJokeR_Afterlife_2026` also allows **D8 OFF during Post Vent (`0019.wav`) or Boot After Vent (`0016.wav`)** to start Ramp 2 Down without an Error.
 
-![Switches](images/buttons.jpg)
+<p align="center">
+  <img src="https://github.com/SataniCJokeR/Ghostbusters-Afterlife-Proton-Pack/blob/main/images/buttons.jpg" alt="wand buttons">
+</p>
+<p align="center">
+  <img src="https://github.com/SataniCJokeR/Ghostbusters-Afterlife-Proton-Pack/blob/main/images/LEDs.jpg" alt="wand switches">
+</p>
 
-![LEDs](images/LEDs.jpg)
 
 ## 9. Troubleshooting
 
