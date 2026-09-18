@@ -199,5 +199,5 @@ Without him, I would never have been able to create what you see here today. **T
 
 
 <p align="center">
-  <img src="images/logo.png" alt="SataniC JokeR logo" width="300">
+  <img src="https://github.com/SataniCJokeR/Ghostbusters-Afterlife-Proton-Pack/blob/main/images/logo.png" alt="SataniC JokeR logo" width="300">
 </p>
