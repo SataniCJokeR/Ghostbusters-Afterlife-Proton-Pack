@@ -37,9 +37,8 @@ The quick-connect fitting makes it easier to detach the hose for servicing and r
 
 *Diagram based on Joe's video and revised for my build.*
 
-The diagram illustrates the battery, buck converter, relay, air pump, fan, vaporizer and 6 mm hose routing. It is a layout reference, **not a verified electrical design**. Before wiring anything, confirm the exact model and ratings of your battery, pump, fan, converter, relay and vaporizer.
 
-**Important electrical and heat precautions:** The 1.8-ohm vaporizer must not be connected directly to the TalentCell 12V output. The diagram also appears to show it on a shared 5V line, but its permitted coil voltage must be checked and supplied from a suitable, separately regulated output rather than assumed to be 5V. Keep hot glue away from the coil and other heated surfaces. Use heat-shrink tubing to insulate soldered electrical joints, and use a suitable driver and protection for any higher-current load.
+**Important electrical and heat precautions:** The 1.8-ohm vaporizer must not be connected directly to the TalentCell 12V output. Keep hot glue away from the coil and other heated surfaces. Use heat-shrink tubing to insulate soldered electrical joints, and use a suitable driver and protection for any higher-current load.
 
 ## 4. Smoke Fluid
 
@@ -50,7 +49,6 @@ The intended smoke fluid for this build consists of:
 | Propylene glycol (PG) | 40% | 99.5% |
 | Plant-based vegetable glycerin (VG) | 60% | 99.5% |
 
-**No water is included in this recipe.** Specify whether the percentages are by weight or volume if mixing your own fluid; these are not interchangeable. This recipe is not a safety certification for inhalation or for this modified vaporizer. Heated PG/VG can produce harmful breakdown products, especially if a coil overheats or runs dry. Avoid inhaling the aerosol directly, use sparingly in a well-ventilated area, and keep it away from other people and animals.
 
 ## 5. Before You Start Building
 
@@ -65,10 +63,9 @@ Not only does she have a grrrreat German accent, her voice could probably raise 
 **Video:** (https://www.youtube.com/watch?v=uDISX8MMLak&t=381s)
 
 
-If you want to know, how to wire this up, have a look at wholesomejoe´s video!
+If you want to SEE, how to wire this up, have a look at wholesomejoe´s video!
 
 **Video:** (https://youtu.be/ciG3mJstMbo?si=-ihIuFimQip9ONlE)
 
 ---
 
-*This is a materials and preparation guide with a reference diagram. A final assembly guide still requires the exact component specifications and a checked wiring diagram.*
