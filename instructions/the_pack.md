@@ -1,5 +1,7 @@
 # SataniC JokeR's Afterlife 2026 Proton Pack
-![Ghostbusters Proton Pack build](images/afterlife.jpg)
+<p align="center">
+  <img src="https://github.com/SataniCJokeR/Ghostbusters-Afterlife-Proton-Pack/blob/main/images/afterlife.jpg" alt="Afterlife 2021">
+</p>
  
 Firmware, libraries & sound installation guide
 
